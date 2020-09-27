@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "644269999515",
+    "firebase_url": "https://kirbytracker.firebaseio.com",
+    "project_id": "kirbytracker",
+    "storage_bucket": "kirbytracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644269999515:android:b0302341a0c9fbd3140d3e",
+        "android_client_info": {
+          "package_name": "com.kirbytracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644269999515-kll5dsm5s0k07erq4ng2d8hi44gp7u2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKhvUGJTXJob97sdoX2fIwi-mU_2v0CqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644269999515-kll5dsm5s0k07erq4ng2d8hi44gp7u2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

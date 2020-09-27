@@ -1,0 +1,21 @@
+{
+  "name": "KirbyTracker",
+  "displayName": "KirbyTracker",
+  "icon": "./assets/icon.png",
+  "expo": {
+    "name": "KirbyTracker",
+    "slug": "KirbyTracker",
+    "splash": {
+      "image": "./assets/kirby.png",
+      "backgroundColor": "#FEF9B0"
+    },
+    "icon": "./assets/icon.png",
+    "version": "1.0.0",
+    "platforms": ["ios", "android", "web"],
+    "assetBundlePatterns": ["**/*"],
+    "description": "",
+    "ios": {
+      "bundleIdentifier": "com.yoshterra.KirbyTracker"
+    }
+  }
+}

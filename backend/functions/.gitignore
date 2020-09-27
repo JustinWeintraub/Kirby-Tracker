@@ -1,0 +1,10 @@
+## Compiled JavaScript files
+
+# Typescript v1 declaration files
+typings/
+
+node_modules/
+
+KirbyTracker-d5e53cd06053.json
+
+lib/
